@@ -1,0 +1,11 @@
+Categoría,Archivo original,Lectura,Ancho original,Alto original,Ancho preparado,Alto preparado,Valor mínimo norm.,Valor máximo norm.,Evaluación
+ciclista,ciclista1.jpg,OK,452,678,224,224,0.0,1.0,APROBADA
+ciclista,ciclista2.jpg,OK,542,369,224,224,0.0,1.0,APROBADA
+ciclista,ciclista3.jpg,OK,674,455,224,224,0.0,1.0,APROBADA
+ciclista,ciclista4.jpg,OK,738,414,224,224,0.0,1.0,APROBADA
+ciclista,ciclista5.jpg,OK,1200,800,224,224,0.0,0.961,APROBADA
+nadador,nadador1.jpg,OK,2560,1280,224,224,0.0,0.988,APROBADA
+nadador,nadador2.jpg,OK,900,600,224,224,0.0,0.988,APROBADA
+nadador,nadador3.jpg,OK,612,408,224,224,0.0,1.0,APROBADA
+nadador,nadador4.jpg,OK,250,376,224,224,0.008,1.0,APROBADA
+nadador,nadador5.jpg,OK,701,436,224,224,0.0,1.0,APROBADA
